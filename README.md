@@ -117,6 +117,7 @@ Please ensure your code adheres to the project's coding conventions.
 ## License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](LICENSE) file for more details.
-```
 
+```
 Feel free to customize this template according to the specifics of your Django ToDo List App.
+```
