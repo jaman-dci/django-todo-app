@@ -4,6 +4,8 @@
 ![Django](https://img.shields.io/badge/django-3.2%2B-green)
 ![License](https://img.shields.io/badge/license-GNU-brightgreen)
 
+![todo-app](todo.jpg)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
